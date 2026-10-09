@@ -1,0 +1,8 @@
+*.wad
+*.gfx
+*.log
+*.pdb
+lua_loader_data.ini
+install-error.txt
+test-*.wad
+.test-game/

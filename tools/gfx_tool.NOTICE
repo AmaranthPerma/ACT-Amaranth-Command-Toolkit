@@ -1,0 +1,13 @@
+mercs2-gfx-tool
+Copyright (c) 2026 loganw234 (Improper Aperture)
+
+This tool depends on the `mercs2_formats` crate from the Mercenaries-Fan-Build
+`mercs2-wad-simulator` project:
+
+    https://github.com/Mercenaries-Fan-Build/mercs2-wad-simulator
+
+`mercs2_formats` is referenced as a Cargo git dependency — its source is fetched
+by cargo at build time and is NOT redistributed in this repository. It is used
+with the maintainers' permission. The reverse-engineering of the Mercenaries 2
+WAD / UCFX / SGES / ASET formats that this tool builds on is their work; please
+credit that project accordingly.
